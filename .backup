@@ -1,0 +1,23 @@
+[
+  {
+    "dbType": 2,
+    "cycle": 1,
+    "path": "/backup/mongodb/1day",
+    "nextBackupTs": 1732878315,
+    "nextBackupDate": "2024-11-29 19:05:15"
+  },
+  {
+    "dbType": 2,
+    "cycle": 10800,
+    "path": "/backup/mongodb/7day",
+    "nextBackupTs": 1733524395,
+    "nextBackupDate": "2024-12-07 06:33:15"
+  },
+  {
+    "dbType": 2,
+    "cycle": 28800,
+    "path": "/backup/mongodb/20day",
+    "nextBackupTs": 1734604395,
+    "nextBackupDate": "2024-12-19 18:33:15"
+  }
+]
